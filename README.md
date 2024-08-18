@@ -32,7 +32,7 @@ The dataset used for this analysis is available here [Data Source](https://githu
 [Background Image](https://github.com/Shalmali-p/HR_ANALYTICS_DASHBOARD/blob/main/HR%20background.png.png)
 
 ## Demo Video
-[Video](https://github.com/Shalmali-p/HR_ANALYTICS_DASHBOARD/blob/main/tableau-hr-analytics-dashboard-2024-08-18-12-12-08-1-1_hBgHvuwO.mp4)
+https://github.com/Shalmali-p/HR_ANALYTICS_DASHBOARD/blob/main/tableau-hr-analytics-dashboard-2024-08-18-12-12-08-1-1_hBgHvuwO.mp4
 
 Take a moment to explore the walkthrough of the HR Analytics Dashboard. Dive into the dashboard to uncover valuable insights into workforce dynamics!
 
