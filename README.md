@@ -22,6 +22,7 @@ This dynamic Tableau dashboard offers in-depth insights into a wide range of HR 
 ## Tableau File
 
 Please find attached tableau file here [[Tableau File]](https://github.com/Shalmali-p/HR_ANALYTICS_DASHBOARD/blob/main/HR%20ANALYTICS%20DASHBOARD.twb)
+![DASHBOARD IMAGE](https://github.com/user-attachments/assets/92a912e1-4dc6-4997-bb30-4fc7809972dc)
 
 ## Data Source
 
@@ -32,7 +33,7 @@ The dataset used for this analysis is available here [Data Source](https://githu
 [Background Image](https://github.com/Shalmali-p/HR_ANALYTICS_DASHBOARD/blob/main/HR%20background.png.png)
 
 ## Demo Video
-https://private-user-images.githubusercontent.com/86196517/358896889-4346ee34-cbbc-41b9-9714-756c53ead373.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM5NzQyMjIsIm5iZiI6MTcyMzk3MzkyMiwicGF0aCI6Ii84NjE5NjUxNy8zNTg4OTY4ODktNDM0NmVlMzQtY2JiYy00MWI5LTk3MTQtNzU2YzUzZWFkMzczLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE4VDA5Mzg0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRiNDE0M2NhZDhhY2Y2ZTU0MGRkODFmNmJmOWNmMTdkNTIzOTNhMThmZDdhY2M3MzYzNjI2ZDBmMmU3ZTU5ZjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Rw2N38BisINPgSQgGyxQbkFgCfsxZeueWDHol9_Y9Pw
+https://github.com/user-attachments/assets/4346ee34-cbbc-41b9-9714-756c53ead373
 
 Take a moment to explore the walkthrough of the HR Analytics Dashboard. Dive into the dashboard to uncover valuable insights into workforce dynamics!
 
